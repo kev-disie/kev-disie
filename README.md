@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Security+Analyst;My+philosohy...;Build+Break+Secure)](https://git.io/typing-svg)
 
-Cybersecurity Enthusiast | CTF Player | Linux User | Ethical Hacker
+## Cybersecurity Enthusiast | CTF Player | Linux User | Ethical Hacker
 
 ---
 
