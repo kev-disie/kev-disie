@@ -38,7 +38,7 @@ Cybersecurity Enthusiast | CTF Player | Linux User | Ethical Hacker
 
 ## 🧰 Cybersecurity Arsenal
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&width=435&lines=Cybersecurity+Enthusiast;CTF+Player;Kali+Linux+User;Ethical+Hacker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&width=435&lines=Cybersecurity+Enthusiast;CTF+Player;Ethical+Hacker)](https://git.io/typing-svg)
 
 <p align="left">
 
