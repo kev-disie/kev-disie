@@ -1,16 +1,112 @@
-## Hi there 👋
+# 👋 Hey, I'm Kev
 
-<!--
-**kev-disie/kev-disie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Security+Analyst;My+philosohy...;Build+Break+Secure)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+Cybersecurity Enthusiast | CTF Player | Linux User | Ethical Hacker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- 🔭 Currently working on:
+  - Web Exploitation
+  - Active Directory
+  - Privilege Escalation
+  - Malware Analysis
+
+- 🐧 Kali Linux daily user
+- 🛠️ Building writeups and labs
+- 📚 Learning through THM/HTB/PortSwigger
+
+---
+
+## ⚔️ Platforms
+
+- TryHackMe
+- HackTheBox
+- PortSwigger Academy
+
+---
+
+## 🧰 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,python,js,docker,vscode" />
+</p>
+
+
+
+## 🧰 Cybersecurity Arsenal
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&width=435&lines=Cybersecurity+Enthusiast;CTF+Player;Kali+Linux+User;Ethical+Hacker)](https://git.io/typing-svg)
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=hackaday&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Netcat-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
+
+<img src="https://img.shields.io/badge/BurpSuite-FF5722?style=for-the-badge" />
+
+</p>
+
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description |
+|---|---|
+| CTF Writeups | Walkthroughs and notes |
+| Linux Notes | Linux troubleshooting & configs |
+| Web Security Labs | BurpSuite practice |
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kev-disie&show_icons=true&theme=merko)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kev-disie&layout=compact&theme=merko)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kev-disie&theme=tokyonight)
+
+[![Kev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kev-disie&theme=tokyo-night)](https://github.com/kev-disie)
+
+---
+
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/kelvin-disie-975235325/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://x.com/Kevtheedisie/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+<a href="https://github.com/kev-disie" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://medium.com/@YOUR_USERNAME" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg"
+       width="48"
+       height="48"
+       style="background-color:white;padding:5px;border-radius:10px;" />
+</a>
+
+</p>
