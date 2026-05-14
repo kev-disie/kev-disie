@@ -6,6 +6,7 @@ Cybersecurity Enthusiast | CTF Player | Linux User | Ethical Hacker
 
 ---
 
+
 ## 🧠 About Me
 
 - 🔭 Currently working on:
@@ -74,20 +75,23 @@ Cybersecurity Enthusiast | CTF Player | Linux User | Ethical Hacker
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kev-disie&show_icons=true&theme=merko)
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kev-disie&layout=compact&theme=merko)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kev-disie&theme=tokyonight)
 
+</div>
+
 [![Kev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kev-disie&theme=tokyo-night)](https://github.com/kev-disie)
 
----
 
 
-## 🌐 Connect With Me
 
-<p align="left">
+ ## 🌐 Connect With Me
+<div align="center">
 
 <a href="https://www.linkedin.com/in/kelvin-disie-975235325/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -101,11 +105,13 @@ Cybersecurity Enthusiast | CTF Player | Linux User | Ethical Hacker
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
+
+
 <a href="https://medium.com/@YOUR_USERNAME" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg"
        width="48"
        height="48"
        style="background-color:white;padding:5px;border-radius:10px;" />
 </a>
+</div>
 
-</p>
