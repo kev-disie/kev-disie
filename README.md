@@ -56,7 +56,6 @@ Cybersecurity Enthusiast | CTF Player | Linux User | Ethical Hacker
 
 <img src="https://img.shields.io/badge/Netcat-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
 
-<img src="https://img.shields.io/badge/BurpSuite-FF5722?style=for-the-badge" />
 
 </p>
 
