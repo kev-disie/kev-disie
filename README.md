@@ -32,7 +32,7 @@ Cybersecurity Enthusiast | CTF Player | Linux User | Ethical Hacker
 ## 🧰 Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,python,js,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,python,js,docker,vscode,c,vim,cpp,windows" />
 </p>
 
 
