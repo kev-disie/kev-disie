@@ -11,11 +11,11 @@
 
 - 🔭 Currently working on:
   - Web Exploitation
-  - Active Directory
-  - Privilege Escalation
-  - Malware Analysis
+  - Active Directory Attacks
+  - Privilege Escalation in windows and Linux systems
+  - Malware Analysis and Reverse Engineering
 
-- 🐧 Kali Linux daily user
+- 🐧 Kali Linux 
 - 🛠️ Building writeups and labs
 - 📚 Learning through THM/HTB/PortSwigger
 
@@ -26,6 +26,7 @@
 - TryHackMe
 - HackTheBox
 - PortSwigger Academy
+- Hackviser
 
 ---
 
