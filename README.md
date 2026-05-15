@@ -51,7 +51,8 @@
 
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img
+src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=hackaday&logoColor=white" />
 
